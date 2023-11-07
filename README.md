@@ -11,6 +11,8 @@ For example, if one parent has blood type AO and the other parent has blood type
 ## Usage:
 
 To run the program, execute the command:
+``./inheritance``
+
 ```shell
 $ ./inheritance
 Child (Generation 0): blood type OO
