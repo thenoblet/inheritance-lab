@@ -8,7 +8,10 @@ A person’s blood type is determined by two alleles (i.e., different forms of a
 For example, if one parent has blood type AO and the other parent has blood type BB, then the child’s possible blood types would be AB and OB, depending on which allele is received from each parent. Similarly, if one parent has blood type AO and the other OB, then the child’s possible blood types would be AO, OB, AB, and OO.
 
 
-## Output example
+## Usage:
+
+To run the program, execute the command:
+```shell
 $ ./inheritance
 Child (Generation 0): blood type OO
     Parent (Generation 1): blood type AO
